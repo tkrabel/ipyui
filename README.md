@@ -1,5 +1,5 @@
 # ipyui
 
-ipyui is a graphical user interface for IPython. With ipyui, you can transform your pandas dataframe using a convenient GUI.
+ipyui is a graphical user interface for Python pandas in Jupyter Notebook and Jupyter Lab. 
 
-
+[Join our mailing list](http://eepurl.com/gyy52D)
